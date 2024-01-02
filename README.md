@@ -1,2 +1,2 @@
-# Analyzing-Random-Number-Generators-and-Optimism-Pessimism-Dynamics
-Assignment 1 delves into random number generators and human behavior models. Implementing GGL, RAN3, and Python's Mersenne-Twister, it scrutinizes generated pairs' distributions and simulates optimism-pessimism dynamics. Explore probability functions' behavior, aiming to uncover underlying patterns in random behavior and human interactions.
+# Computational Methods in Stochastics
+Exercises tailored for the 'Computational Methods in Stochastics' course. Discover and rectify errors in Assignments 2 and 3. Engage in insightful problem-solving to enhance your understanding of stochastic computational methods.
